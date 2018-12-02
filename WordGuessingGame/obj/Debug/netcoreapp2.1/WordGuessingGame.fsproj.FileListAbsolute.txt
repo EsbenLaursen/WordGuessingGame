@@ -1,0 +1,8 @@
+C:\Users\Esben\Documents\Visual Studio 2017\Projects\WordGuessingGame\WordGuessingGame\bin\Debug\netcoreapp2.1\WordGuessingGame.deps.json
+C:\Users\Esben\Documents\Visual Studio 2017\Projects\WordGuessingGame\WordGuessingGame\bin\Debug\netcoreapp2.1\WordGuessingGame.runtimeconfig.json
+C:\Users\Esben\Documents\Visual Studio 2017\Projects\WordGuessingGame\WordGuessingGame\bin\Debug\netcoreapp2.1\WordGuessingGame.runtimeconfig.dev.json
+C:\Users\Esben\Documents\Visual Studio 2017\Projects\WordGuessingGame\WordGuessingGame\bin\Debug\netcoreapp2.1\WordGuessingGame.dll
+C:\Users\Esben\Documents\Visual Studio 2017\Projects\WordGuessingGame\WordGuessingGame\bin\Debug\netcoreapp2.1\WordGuessingGame.pdb
+C:\Users\Esben\Documents\Visual Studio 2017\Projects\WordGuessingGame\WordGuessingGame\obj\Debug\netcoreapp2.1\WordGuessingGame.fsprojAssemblyReference.cache
+C:\Users\Esben\Documents\Visual Studio 2017\Projects\WordGuessingGame\WordGuessingGame\obj\Debug\netcoreapp2.1\WordGuessingGame.dll
+C:\Users\Esben\Documents\Visual Studio 2017\Projects\WordGuessingGame\WordGuessingGame\obj\Debug\netcoreapp2.1\WordGuessingGame.pdb

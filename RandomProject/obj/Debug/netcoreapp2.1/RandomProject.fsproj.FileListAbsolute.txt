@@ -1,0 +1,8 @@
+C:\Users\Esben\Documents\Visual Studio 2017\Projects\WordGuessingGame\RandomProject\bin\Debug\netcoreapp2.1\RandomProject.deps.json
+C:\Users\Esben\Documents\Visual Studio 2017\Projects\WordGuessingGame\RandomProject\bin\Debug\netcoreapp2.1\RandomProject.runtimeconfig.json
+C:\Users\Esben\Documents\Visual Studio 2017\Projects\WordGuessingGame\RandomProject\bin\Debug\netcoreapp2.1\RandomProject.runtimeconfig.dev.json
+C:\Users\Esben\Documents\Visual Studio 2017\Projects\WordGuessingGame\RandomProject\bin\Debug\netcoreapp2.1\RandomProject.dll
+C:\Users\Esben\Documents\Visual Studio 2017\Projects\WordGuessingGame\RandomProject\bin\Debug\netcoreapp2.1\RandomProject.pdb
+C:\Users\Esben\Documents\Visual Studio 2017\Projects\WordGuessingGame\RandomProject\obj\Debug\netcoreapp2.1\RandomProject.dll
+C:\Users\Esben\Documents\Visual Studio 2017\Projects\WordGuessingGame\RandomProject\obj\Debug\netcoreapp2.1\RandomProject.pdb
+C:\Users\Esben\Documents\Visual Studio 2017\Projects\WordGuessingGame\RandomProject\obj\Debug\netcoreapp2.1\RandomProject.fsprojAssemblyReference.cache
